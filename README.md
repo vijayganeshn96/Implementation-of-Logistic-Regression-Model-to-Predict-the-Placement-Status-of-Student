@@ -8,10 +8,14 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import packages.
+2. Read the csv file for datas.
+3. Check for duplicate data in the given data.
+4. Using sklearn transform every column.
+5. assign a column to x.
+6. Train the model using test datas.
+7. Using logistic regression predict the datas .
+8. End. 
 
 ## Program:
 ```
@@ -20,7 +24,6 @@ data=pd.read_csv("Placement_Data.csv")
 data.head()
 data1=data.copy()
 data1=data1.drop(["sl_no","salary"],axis=1)
-data1.head()
 data1.head()
 data1.isnull().sum()
 data1.duplicated().sum()
@@ -65,7 +68,11 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student]()
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.1.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.2.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp3.3.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.4.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.5.png)
 
 
 ## Result:
