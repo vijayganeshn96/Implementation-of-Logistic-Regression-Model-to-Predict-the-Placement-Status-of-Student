@@ -68,11 +68,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.1.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.2.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp3.3.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.4.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/exp%203.5.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/data%20head.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/print%20x.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/print%20y.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/vijayganeshn96/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/classification.png)
+
 
 
 ## Result:
